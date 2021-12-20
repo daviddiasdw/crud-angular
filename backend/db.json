@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "Caneta BIC Preta",
+        "price": 5.89
+        }, 
+        {
+        "id": 2,
+        "name": "Copo Corinthians",
+        "price": 4.90
+        }, 
+        {
+        "id": 3,
+        "name": "Desodorante Aerossol",
+        "price": 8.99
+        } 
+    ]
+}
